@@ -11,7 +11,6 @@
 8. [Capturas de Pantalla](#capturas-de-pantalla)
 9. [Tareas Futuras](#tareas-futuras)
 10. [Contribución](#contribución)
-11. [Licencia](#licencia)
 
 ## 📝 Descripción
 Este sistema tiene como objetivo gestionar el acceso al Complejo Empresarial Zona Acme, asegurando la trazabilidad de los movimientos de trabajadores e invitados, y proporcionando herramientas amigables para guardas de seguridad, supervisores y funcionarios de empresas.
@@ -103,15 +102,15 @@ El sistema está basado en el patrón *MVC*, dividido en módulos para facilitar
 
 ## 📸 Capturas de Pantalla
 - *Pantalla de Login*
-  ![Login](./img/Login.png)
+  ![Login](./src/img/Login.png)
 - *Pantalla Principal del Guarda*
-  ![Guarda](./img/Guardia.png)
+  ![Guarda](./src/img/Guardia.png)
 - *Pantalla Principal del Superusuario*
-  ![Guarda](./img/SuperUsers.png)
-  - *Pantalla Principal del Supervisor*
-  ![Guarda](./img/Supervisor.png)
-  - *Pantalla Principal del Funcionario*
-  ![Guarda](./img/Funcionario.png)
+  ![SuperUsuario](./src/img/SuperUsers.png)
+- *Pantalla Principal del Supervisor*
+  ![Supervisor](./src/img/Supervisor.png)
+- *Pantalla Principal del Funcionario*
+  ![Funcionario](./src/img/Funcionario.png)
 ## 🚀 Tareas Futuras
 - Integración con dispositivos biométricos.  
 - Mejora de reportes con exportación a formatos PDF/Excel.  
