@@ -103,10 +103,15 @@ El sistema está basado en el patrón *MVC*, dividido en módulos para facilitar
 
 ## 📸 Capturas de Pantalla
 - *Pantalla de Login*
-  ![Login](./screenshots/login.png)
+  ![Login](./img/Login.png)
 - *Pantalla Principal del Guarda*
-  ![Guarda](./screenshots/guarda.png)
-
+  ![Guarda](./img/Guardia.png)
+- *Pantalla Principal del Superusuario*
+  ![Guarda](./img/SuperUsers.png)
+  - *Pantalla Principal del Supervisor*
+  ![Guarda](./img/Supervisor.png)
+  - *Pantalla Principal del Funcionario*
+  ![Guarda](./img/Funcionario.png)
 ## 🚀 Tareas Futuras
 - Integración con dispositivos biométricos.  
 - Mejora de reportes con exportación a formatos PDF/Excel.  
@@ -124,6 +129,3 @@ El sistema está basado en el patrón *MVC*, dividido en módulos para facilitar
    git push origin feature/nueva-funcionalidad
    
 4. Envía un Pull Request.
-
-## 📜 Licencia
-Este proyecto está licenciado bajo los términos de la [MIT License](LICENSE).
